@@ -11,24 +11,24 @@ NCTU_2023_Spring_IC_Lab
 
 Lab
 ===
-- Lab01: Combinational Circuit Design
-- Lab02: Sequential Circuit Design
-- Lab03: Testbench and Pattern
-- Lab04: Finite State Machine
-- Lab05: Macros and SRAM
-- Lab06: Synthesis
+- Lab01: Chinese Course (Combinational Circuit Design)
+- Lab02: 12-Queen (Sequential Circuit Design)
+- Lab03: Subway Surfer (Testbench and Pattern)
+- Lab04: Simple Recurrent Neural Network (DesignWare IP)
+- Lab05: Matrix Multiplication to Find Trace (Macros and SRAM)
+- Lab06: Elliptic Curve Group Operation (Synthesis and Soft IP)
 - Lab07: Clock Domain Crossing
-- Lab08: Low Power Design and Sequential Equivalency Checking
-- Lab09: System Verilog
-- Lab10: System Verilog Verification
-- Lab11: Cell Based APR Flow
-- Lab12: Power Rail Analysis 
+- Lab08: Siamese Neural Network (Low Power Design and Sequential Equivalency Checking)
+- Lab09: Online Shopping Platform Simulation (System Verilog)
+- Lab10: OS Coverage (System Verilog Verification)
+- Lab11: Matrix Multiplication with Systolic Array (Cell Based APR Flow)
+- Lab12: Train Tour APRII (Power Rail Analysis) 
 
 &emsp;
 
 Project
 ===
-- Midterm Project: Gray-level Co-occurrence Matrix Using AXI4 Protocol
+- Midterm Project: Gray-Level Co-Occurrence Matrix Using AXI4 Protocol
 - Final Project: Customized ISA Processor Using AXI4 Protocol
 
 Online Test
