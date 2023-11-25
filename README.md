@@ -62,12 +62,14 @@ Project
 ===
 - Midterm Project: Gray-Level Co-Occurrence Matrix
   - DRAM / SRAM / REG
-  - AXI4 Protocal
+  - AXI4 Protocol
 - Final Project: Customized ISA Processor
   - DRAM / SRAM / REG
   - AXI4 Protocol
   - APR
   - Post-Simulation
+
+&emsp;
 
 Online Test
 ===
