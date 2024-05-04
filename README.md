@@ -15,62 +15,32 @@ NCTU_2023_Spring_IC_Lab
 
 Lab
 ===
-- Lab01: Chinese Course
-  - Combinational Circuit Design
-- Lab02: 12-Queen
-  - Sequential Circuit Design
-- Lab03: Subway Surfer
-  - Testbench & Pattern
-- Lab04: Simple Recurrent Neural Network
-  - DesignWare IP
-- Lab05: Matrix Multiplication to Find Trace
-  - Macros & SRAM
-- Lab06: Elliptic Curve Group Operation
-  - Soft IP
-  - Generate & For Loop
-  - Synthesis & syn.tcl
-- Lab07: Clock Domain Crossing
-  - FIFO
-  - Static Timing Analysis
-  - .sdc file
-- Lab08: Siamese Neural Network
-  - Low Power Design
-  - Sequential Equivalency Checking
-  - JasperGold
-- Lab09: Online Shopping Platform Simulation
-  - System Verilog
-  - OOP
-  - Randomization
-  - typedef / enum / struct / union
-  - interface
-- Lab10: OS Coverage
-  - Formal Verification
-  - Functional Coverage
-  - Assertion
-- Lab11: Matrix Multiplication with Systolic Array
-  - Cell Based APR Flow
-  - Post-Simulation
-  - Candence Innovus
-- Lab12: Train Tour APRII
-  - Power Rail Analysis
-  - IR Drop & Electro-Migration
-  - Cadence Innvous 
+|Labs|Name|Features|
+|:---|:---|:---|
+|Lab01|Chinese Course|Combinational Circuit Design|
+|Lab02|12-Queen|Sequential Circuit Design|
+|Lab03|Subway Surfer|Testbench & Pattern|
+|Lab04|Simple Recurrent Neural Network|DesignWare IP|
+|Lab05|Matrix Multiplication to Find Trace|Macros & SRAM|
+|Lab06|Elliptic Curve Group Operation|Soft IP <br> Generate & For Loop <br> Synthesis & syn.tcl|
+|Lab07|Clock Domain Crossing|FIFO <br> Static Timing Analysis <br> .sdc file|
+|Lab08|Siamese Neural Network|Low Power Design <br> Sequential Equivalency Checking <br> JasperGold|
+|Lab09|Online Shopping Platform Simulation|System Verilog <br> OOP <br> Randomization <br> typedef / enum / struct / union <br> interface|
+|Lab10|OS Coverage|Formal Verification <br> Functional Coverage <br> Assertion|
+|Lab11|Matrix Multiplication with Systolic Array|Cell Based APR Flow <br> Post-Simulation <br> Candence Innovus|
+|Lab12|Train Tour APRII|Power Rail Analysis <br> IR Drop & Electro-Migration <br> Cadence Innvous|
 
 &emsp;
 
-Project
+Projects
 ===
-- Midterm Project: Gray-Level Co-Occurrence Matrix
-  - DRAM / SRAM / REG
-  - AXI4 Protocol
-- Final Project: Customized ISA Processor
-  - DRAM / SRAM / REG
-  - AXI4 Protocol
-  - APR
-  - Post-Simulation
+|Projects|Name|Features|
+|:---|:---|:---|
+|Midterm Project|Gray-Level Co-Occurrence Matrix|DRAM / SRAM / REG <br> AXI4 Protocol|
+|Final Project|Customized ISA Processor|DRAM / SRAM / REG <br> AXI4 Protocol <br> APR <br> Post-Simulation|
 
 &emsp;
 
 Online Test
 ===
-- Area and Angles of Triangle
+Area and Angles of Triangle
