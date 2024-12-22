@@ -15,29 +15,29 @@ NYCU_2023_Spring_IC_Lab
 
 Lab
 ===
-|Labs|Name|Features|
-|:---|:---|:---|
-|Lab01|Chinese Course|Combinational Circuit Design|
-|Lab02|12-Queen|Sequential Circuit Design|
-|Lab03|Subway Surfer|Testbench & Pattern|
-|Lab04|Simple Recurrent Neural Network|DesignWare IP|
-|Lab05|Matrix Multiplication to Find Trace|Macros & SRAM|
-|Lab06|Elliptic Curve Group Operation|Soft IP <br> Generate & For Loop <br> Synthesis & syn.tcl|
-|Lab07|Clock Domain Crossing|FIFO <br> Static Timing Analysis <br> .sdc file|
-|Lab08|Siamese Neural Network|Low Power Design <br> Sequential Equivalency Checking <br> JasperGold|
-|Lab09|Online Shopping Platform Simulation|System Verilog <br> OOP <br> Randomization <br> typedef / enum / struct / union <br> interface|
-|Lab10|OS Coverage|Formal Verification <br> Functional Coverage <br> Assertion|
-|Lab11|Matrix Multiplication with Systolic Array|Cell-Based APR Flow <br> Post-Simulation <br> Candence Innovus|
-|Lab12|Train Tour APRII|Power Rail Analysis <br> IR Drop & Electro-Migration <br> Cadence Innvous|
+|Labs|Name|Features|Rank (out of 105)|
+|:---|:---|:---|---:|
+|Lab01|Chinese Course|Combinational Circuit Design|74|
+|Lab02|12-Queen|Sequential Circuit Design|35|
+|Lab03|Subway Surfer|Testbench & Pattern|17|
+|Lab04|Simple Recurrent Neural Network|DesignWare IP|46|
+|Lab05|Matrix Multiplication to Find Trace|Macros & SRAM|59|
+|Lab06|Elliptic Curve Group Operation|Soft IP <br> Generate & For Loop <br> Synthesis & syn.tcl|5|
+|Lab07|Clock Domain Crossing|FIFO <br> Static Timing Analysis <br> .sdc file|75|
+|Lab08|Siamese Neural Network|Low Power Design <br> Sequential Equivalency Checking <br> JasperGold|14|
+|Lab09|Online Shopping Platform Simulation|System Verilog <br> OOP <br> Randomization <br> typedef / enum / struct / union <br> interface|21|
+|Lab10|OS Coverage|Formal Verification <br> Functional Coverage <br> Assertion|10|
+|Lab11|Matrix Multiplication with Systolic Array|Cell-Based APR Flow <br> Post-Simulation <br> Candence Innovus|66|
+|Lab12|Train Tour APRII|Power Rail Analysis <br> IR Drop & Electro-Migration <br> Cadence Innvous|No Ranking|
 
 &emsp;
 
 Project
 ===
-|Projects|Name|Features|
-|:---|:---|:---|
-|Midterm Project|Gray-Level Co-Occurrence Matrix|DRAM / SRAM / REG <br> AXI4 Protocol|
-|Final Project|Customized ISA Processor|DRAM / SRAM / REG <br> AXI4 Protocol <br> APR <br> Post-Simulation|
+|Projects|Name|Features|Rank (out of 105)|
+|:---|:---|:---|---:|
+|Midterm Project|Gray-Level Co-Occurrence Matrix|DRAM / SRAM / REG <br> AXI4 Protocol|64|
+|Final Project|Customized ISA Processor|DRAM / SRAM / REG <br> AXI4 Protocol <br> APR <br> Post-Simulation|24|
 
 &emsp;
 
